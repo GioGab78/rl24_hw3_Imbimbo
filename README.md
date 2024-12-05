@@ -11,7 +11,7 @@ This guide provides updated instructions for working with the robotics package, 
 
 Ensure that the repository has been cloned and the workspace is built:
 ```bash
-https://github.com/GioGab78/rl24_hw3_Imbimbo.git
+git clone https://github.com/GioGab78/rl24_hw3_Imbimbo.git
 colcon build
 source install/setup.bash
 ```
